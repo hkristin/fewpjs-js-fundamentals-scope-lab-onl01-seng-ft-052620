@@ -1,4 +1,4 @@
-animal = ""
+animal = "animal"
 
 function myAnimal() {
   return animal
